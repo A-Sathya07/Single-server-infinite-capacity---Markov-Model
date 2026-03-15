@@ -19,8 +19,8 @@ This is a queuing model in which the arrival is Marcovian and departure distribu
 
 
 ## Experiment:
+![alt text](3.png)
 
- 
 ## Program
 
 ```
@@ -56,7 +56,8 @@ print("---------------------------------------------------------------")
 
 ## Output :
 
-
+![alt text](4.png)
 
 ## Result :
 
+Thus the python program is implemented and executed successfully.
