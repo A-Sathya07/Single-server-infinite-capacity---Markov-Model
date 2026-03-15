@@ -53,11 +53,10 @@ if (lam <  mu):
 else:
     print("Warning! Objects Over flow will happen in the conveyor")
 print("---------------------------------------------------------------")
-
 ```
 
 ## Output :
-![image](3.png)
+
 
 
 ## Result :
